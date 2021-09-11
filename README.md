@@ -1,0 +1,2 @@
+# space-shuttle
+WARNING: THINGS ARE HEATING UP! SCIENCE APPLICATIONSRISK Climate change is expected to exacerbate heat-related extremes that impact human health and environmental and ecological systems. Your challenge is to build a tool that uses Earth Observations (EO), crowdsourced data, and models to provide warnings about potential impacts of these events, along with guidance on mitigation measures.
